@@ -3,4 +3,4 @@
 
 Fork, download and destroy
 
-https://jurgenjws.github.io/my-hidden-movie/
+https://jurgenjws.github.io/jurgen-wacky-website/
